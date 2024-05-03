@@ -2,23 +2,11 @@
 
 ![sRP](misc/logo_alpha.png)
 
-## Addon/Framework de RP para SA-MP
+## RP Addon/Framework for SA-MP
 
-Este projeto tem como objetivo criar um framework genérico e simples para RP.
+This project aims to create a generic and simple framework for RP.
 
 ## Recursos
-
-* Ferramentas básicas de administração (kick, ban, whitelist), grupos/permissões, idiomas, sistema de identificação (ID de usuário persistente para armazenamento em banco de dados), dados personalizados de usuário/personagem/servidor/global chave/valor.
-* Estado do jogador (vitais de sobrevivência, armas, aparência do jogador, posição).
-* Identidade do jogador/telefone/aptidões (educação/exp), emotes, sistema de negócios/dinheiro (carteira/banco), casas.
-* Vestiários (uniforme para empregos), polícia básica (PC, checagem, ID, algemar, prisões, apreender armas/itens), emergência básica (coma, reanimar).
-* Inventário (com definição personalizada de itens, itens paramétricos), baús (porta-malas de veículos), transformador (colher, processar, produzir) (informante ilegal).
-* Implementações básicas: caixa eletrônico, mercado, lojas, loja de skins, garagem.
-* GUI (menu dinâmico, barras de progresso, prompt), entidades de mapa (blip, marcadores), áreas (callbacks de entrada/saída).
-* Sistema de "driver" MySQL para banco de dados para interagir com qualquer recurso MySQL.
-* Design OOP, código mais estruturado e menos sobrecarga.
-* Proxy para desenvolvimento fácil entre recursos, túnel para comunicação fácil entre servidor/clientes.
-* Perfilador Lua.
 * ...
 
 ## Contribuindo
