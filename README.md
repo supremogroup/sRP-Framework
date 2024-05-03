@@ -9,9 +9,9 @@ This project aims to create a generic and simple framework for RP.
 ## Resources
 * ...
 
-## Contribuindo
+## Contributing
 * ...
 
-## Licença
+## License
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
